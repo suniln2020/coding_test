@@ -1,0 +1,6 @@
+services:
+  rates:
+    apiUrl: https://api.ratesapi.io/api
+logging:
+  level:
+    org.springframework.web.client: debug
